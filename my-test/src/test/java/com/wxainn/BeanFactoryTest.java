@@ -1,3 +1,5 @@
+package com.wxainn;
+
 import bean.MyTestBean;
 import org.junit.Assert;
 import org.junit.Test;
